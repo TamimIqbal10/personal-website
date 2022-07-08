@@ -2,3 +2,92 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
+h1{
+    font-size: 25px;
+}
+#name-colour{
+    font-size: 35px;
+    color:  rgba(226, 29, 94, 0.868);
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+
+}
+.half-width img{
+    width: 100%;
+}
+#extra-margin{
+    margin-top: 6%;
+}
+#extra-margin2{
+    margin-top: 10%;
+}
+p{
+    color: dimgray;
+}
+section{
+    height: 400px;
+    padding-bottom: 100px;
+}
+.header{
+    background-image: url("personal-website-sources/header-bg.png");
+    background-size: 100%;
+    background-position:right;
+}
+.link-button{
+    text-decoration: none;
+    background-color:  rgba(226, 29, 94, 0.868);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+.biography{
+    background-image: url("personal-website-sources/biography-bg.png");
+    background-size: 100%;
+    background-position: left;
+}
+#text-align{
+    text-align: center;
+}
+.work-width{
+    width: 25%;
+    float: left;
+    margin-left: 3%;
+   padding-left: 3%;
+
+}
+.work-width img{
+    width: 100%;
+}
+.latest-work{
+    background-image: url("personal-website-sources/latest-work-bg.png");
+    background-size: 100%;
+    background-position: left;
+}
+.text-align2{
+    margin: auto;
+    width: 40%;
+    text-align: center;
+}
+.background-color{
+    background-color: rgba(226, 29, 94, 0.868);
+    padding: 20px 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 200;
+}
+.client{
+    background-image: url("personal-website-sources/footer-bg.png");
+    background-size: 100%;
+    background-position: left;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+
+
